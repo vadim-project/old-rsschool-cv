@@ -1,6 +1,5 @@
 # VADIM ROGOZHNIKOV 
 ![Красивый пиздецс](https://user-images.githubusercontent.com/108485029/205988613-d5ae3d61-ca16-4439-bf7b-df49ccc98bff.jpg)
-********
 ### Contacts 
 1. [my Telegram](https://t.me/vadimrogozhnikov)
 2. [my GitHub](https://github.com/vadim-project)
