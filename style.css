@@ -1,1 +1,32 @@
+    body {
+        padding: 0;
+        font-family: Areal, sans-serif;
+        width: 60%;
+        margin: auto;
+        padding: 0 20px; 
+    }
+    .header{
+        font: 18px Areal, sans-serif;
+        margin-top: 20px;
+        margin-left: 30px;
+        font-weight: 900;
+        border: 1px solid #545c69;
+        background-color: #f2f4f78e;
+        padding: 2%;
+    }
+    nav {
+        text-align: center;
+        font: 18px Areal, sans-serif;
+        padding: 2%;
+    }
+    a {
+        color: black;
+        text-decoration: none;
+        margin: 1%;
+        padding: 1%;
+        background-color: #f2f4f7dc; 
+    }
+    img {
+        width: 30%;
+    }
 
