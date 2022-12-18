@@ -20,7 +20,9 @@ body {
         border: 1px solid #545c69;
         background-color: #16181cdc;
         position: relative;
-	    min-height: 100%;
+	min-height: 100%;
+        display: flex;
+        padding: 1rem;
 }
 nav {
         text-align: center;
@@ -49,8 +51,6 @@ a.button:hover {
         border: 3px solid #777a7fdc;
         box-shadow: 0 0 7px #777a7fdc;
         float: left;
-
-        
 }
 .main {
         text-align: center;
