@@ -1,0 +1,150 @@
+html {
+        height: 100%;
+}
+body {
+        font-family: Areal, sans-serif;
+        width: 60em;
+        margin:0 auto;
+        padding: 0 20px; 
+        background-color: #777a7fdc;
+        display: block;
+        min-width: auto;
+        min-height: auto;
+        padding-bottom: 90px;
+        display: flex;
+        flex-direction: column;
+}
+.header{
+        color: white;
+        font: 18px Areal, sans-serif;
+        border: 1px solid #545c69;
+        background-color: #16181cdc;
+        position: relative;
+	min-height: 100%;
+        display: flex;
+        padding: 1rem;
+}
+nav {
+        text-align: center;
+        font:18px Areal, sans-serif;
+        padding: 2%;
+}
+a.button {
+        border: none;
+        position: relative;
+        width: 360px;
+        text-decoration: none;
+        margin: 2em;
+        padding: 0.5em;
+        background-color: #f2f4f7dc;
+        border-radius: 60px;
+        transition: all 500ms ease;
+} 
+a.button:hover {
+        background: rgba(0,0,0,0);
+        color: white;
+        box-shadow: inset 0 0 0 3px #292f38dc;
+} 
+.me {
+        width: 20%;
+        border-radius: 400px;
+        border: 3px solid #777a7fdc;
+        box-shadow: 0 0 7px #777a7fdc;
+        float: left;
+}
+.main {
+        text-align: center;
+        margin: 3%;
+        padding-left: 80px;
+}
+td {
+        padding: 5px 20px;
+}
+.description {
+        font-weight: bold;
+}
+#about-me {
+        font: 18px Areal, sans-serif;
+        border: 1px solid #545c69;
+        background-color: #f2f4f78e;
+        text-align: left;
+        padding: 2%;
+}
+h2 {
+        text-align: center;
+}
+.project {
+        font: 18px Areal, sans-serif;
+        border: 1px solid #545c69;
+        background-color: #f2f4f78e;
+        text-align: left;
+        padding: 2%;
+}
+.code {
+        color: #4d7fe3dc;
+        font: 16px Courier new, Courier;
+        border: 1px solid #a20bd9dc;
+        background-color: #2F3136;
+        
+}
+#contact {
+        font: bold;
+        color: #dfe2e8dc;
+        float: left;
+        width: 45%;
+        border: 1px solid #545c69;
+        background-color: #444547dc;
+        padding-left: 8px;
+        padding: 10px 30px 12px 8px;
+}
+.icon {
+      border-radius: 100px;
+      width: 40px; 
+}
+.skillbarbox{
+        font: bold;
+        color: #dfe2e8dc;
+        float: right;
+        width: 45%;
+        border: 1px solid #545c69;
+        background-color: #444547dc;
+        padding-right: 8px;
+        padding: 10px 30px 13px 8px;
+}
+.skillsbar {
+        width: 93%;
+        background-color: blue;
+        padding: 10px 30px 18px 10px;
+}
+.skills {
+        text-align: right;
+        padding-right: 20px;
+        line-height: 10px;
+        color: white;
+}
+.html {
+        width: 33%;
+        background-color: #2F3136;
+}
+.css {
+        width: 55%;
+        background-color: #2F3136;
+}
+.js {
+        width: 10%;
+        background-color: #2F3136;  
+}
+.footer {
+        text-align: center;
+        border: none;
+        width: 100%;
+        background-color: #f2f4f78e;
+        border: 1px solid #545c69;
+}
+.footer-content td {
+        padding-right: 100px;
+        padding-left: 150px;
+}
+.rsicon {
+        width: 100%;
+}
