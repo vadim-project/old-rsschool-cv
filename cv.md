@@ -12,6 +12,7 @@ I am looking for new contacts for further professional relations. I will be glad
 In 2006 was recognized as the person of the year by the journal ***Times***
 ### Projects
 [My CV](https://github.com/vadim-project/rsschool-cv/edit/gh-pages/cv.md)
+<br>
 [Plants](https://rolling-scopes-school.github.io/vadim-project-JSFEPRESCHOOL2022Q4/plants/)
 ### Education
 * Novopolotsk State Polytech College / Refining of oil and petroleum products
